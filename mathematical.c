@@ -5,6 +5,7 @@ int main(void)
  puts("3 + 2 is");
  
  printf("%d\n",3+2);
-
- puts("");
+ int sum;
+ sum = 3+33;
+ printf("%d\n", sum);
 }
