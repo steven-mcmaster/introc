@@ -16,3 +16,6 @@ au BufNewFile,BufRead *.c
     set autoindent    " align the new line indent with the
     set number
     set dictionary=/usr/share/dict/words
+
+au BufNewFile *.c 0r ~/.vimtest
+
