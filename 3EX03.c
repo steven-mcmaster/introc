@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  puts("10");
+   puts("a because b must have '{}'");
 }
 
